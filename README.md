@@ -1,4 +1,4 @@
-### Hi there My same is Sairam Pimple 👋
+### Hi there, My name is Sairam Pimple 👋
 
 <!--
 **SairamPimple/SairamPimple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
