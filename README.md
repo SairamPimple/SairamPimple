@@ -63,7 +63,7 @@ I'm actively exploring opportunities in **Data Analytics and Data Science** and 
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sairam-pimple/)
 - 💻 GitHub: [Explore my repositories](https://github.com/SairamPimple)
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: sairampimple003@gmail.com
 
 ---
 
